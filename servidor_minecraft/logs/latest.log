@@ -1,0 +1,183 @@
+[21:44:35] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:44:36] [ForkJoinPool-1-worker-2/WARN]: Mod mr_ancient_artifacts2 uses the version 2.5.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:44:36] [ForkJoinPool-1-worker-1/WARN]: Mod elytra_physics uses the version 2.3_mc1.21.5-6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3_mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:44:36] [main/INFO]: Loading 64 mods:
+	- advancednetherite 2.3.1-1.21.8
+	- allarrowsinfinityfix 1.8.4
+	- amyshield 2.4.4
+	- elementalenchantments 2.5.0
+	- elementalswords 1.21.8-1.8.2
+	- fabric-api 0.129.0+1.21.8
+	   |-- fabric-api-base 0.4.64+9ec45cd8f3
+	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c3f3
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c3f3
+	   |-- fabric-block-api-v1 1.1.3+946bf4c3f3
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c3f3
+	   |-- fabric-command-api-v2 2.2.53+946bf4c3f3
+	   |-- fabric-content-registries-v0 10.0.18+946bf4c3f3
+	   |-- fabric-convention-tags-v1 2.1.40+7f945d5bf3
+	   |-- fabric-convention-tags-v2 2.15.5+eb5df52ff3
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c3f3
+	   |-- fabric-data-attachment-api-v1 1.8.10+946bf4c3f3
+	   |-- fabric-data-generation-api-v1 23.2.4+55e55d29f3
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c3f3
+	   |-- fabric-entity-events-v1 2.1.1+c9e47273f3
+	   |-- fabric-events-interaction-v0 4.0.23+946bf4c3f3
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5bf3
+	   |-- fabric-item-api-v1 11.4.3+946bf4c3f3
+	   |-- fabric-item-group-api-v1 4.2.13+946bf4c3f3
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	   |-- fabric-lifecycle-events-v1 2.6.3+db4dfd85f3
+	   |-- fabric-loot-api-v2 3.0.55+3f89f5a5f3
+	   |-- fabric-loot-api-v3 2.0.2+946bf4c3f3
+	   |-- fabric-message-api-v1 6.1.1+946bf4c3f3
+	   |-- fabric-model-loading-api-v1 5.2.5+946bf4c3f3
+	   |-- fabric-networking-api-v1 5.0.1+946bf4c3f3
+	   |-- fabric-object-builder-api-v1 21.1.7+946bf4c3f3
+	   |-- fabric-particles-v1 4.1.7+946bf4c3f3
+	   |-- fabric-recipe-api-v1 8.1.14+946bf4c3f3
+	   |-- fabric-registry-sync-v0 6.1.27+946bf4c3f3
+	   |-- fabric-renderer-api-v1 7.0.2+946bf4c3f3
+	   |-- fabric-renderer-indigo 4.0.2+946bf4c3f3
+	   |-- fabric-rendering-fluids-v1 3.1.30+fa6cb72bf3
+	   |-- fabric-rendering-v1 12.4.0+e8d43c76f3
+	   |-- fabric-resource-conditions-api-v1 5.0.24+946bf4c3f3
+	   |-- fabric-resource-loader-v0 3.1.11+946bf4c3f3
+	   |-- fabric-screen-api-v1 2.1.0+277ecf7df3
+	   |-- fabric-screen-handler-api-v1 1.3.136+946bf4c3f3
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c3f3
+	   |-- fabric-tag-api-v1 1.2.1+946bf4c3f3
+	   |-- fabric-transfer-api-v1 6.0.5+946bf4c3f3
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d1f3
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- frost 2.1.0
+	- java 21
+	- midnightlib 1.7.5
+	- minecraft 1.21.8
+	- more_armor_trims 1.4.5-1.21.5
+	- moreores 4.3.3+1.21.7
+	   \-- team_reborn_energy 4.2.0
+	- mr_ancient_artifacts2 2.5.3a
+	- mr_compatible_swordenchantments 2
+	- mr_enchants_plus 1.6
+	- mr_enchants_tobooks 1.2.7
+	- mr_infinity_mending 4
+	- mr_moreenchantments 1.3.3
+	- owo 0.12.21+1.21.6
+	   |-- blue_endless_jankson 1.2.2
+	   |-- io_wispforest_endec 0.1.9
+	   |-- io_wispforest_endec_gson 0.1.6
+	   |-- io_wispforest_endec_jankson 0.1.6
+	   \-- io_wispforest_endec_netty 0.1.5
+	- trims_overhaul 3.0.2
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+[21:44:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Fabric-Server-1.21.8/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:44:37] [main/INFO]: Compatibility level set to JAVA_21
+[21:44:38] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[21:44:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:44:44] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[21:44:44] [main/INFO]: Registering Block Entities for amyshield
+[21:44:44] [main/INFO]: Hello, Blockixel :)
+[21:44:44] [main/INFO]: Registering item for elementalswords
+[21:44:44] [main/INFO]: Registering Item Group for elementalswords
+[21:44:44] [main/INFO]: Loading Universal frostwalker mod
+[21:44:44] [main/INFO]: Registering ModBlocks for frost
+[21:44:44] [main/INFO]: Loading ModItems for moreores mod.
+[21:44:44] [main/INFO]: Loading ModBlocks for moreores mod.
+[21:44:44] [main/INFO]: Loading ModBlockSoundGroups for moreores mod.
+[21:44:44] [main/INFO]: Setting Up world generation for Custom Ores for moreores mod.
+[21:44:44] [main/INFO]: Loading ModVillagerProfessions for moreores mod.
+[21:44:44] [main/INFO]: Loading CustomTrades for moreores mod.
+[21:44:44] [main/INFO]: Modifying VanillaLootTables for moreores mod.
+[21:44:44] [main/INFO]: Loading ModBlockEntityTypes for moreores mod.
+[21:44:44] [main/INFO]: Registering Buttons for GemPolisher
+[21:44:44] [main/INFO]: Loading ModS2CNetworks formoreores mod.
+[21:44:44] [main/INFO]: Loading ModC2SNetworks formoreores mod.
+[21:44:44] [main/INFO]: Loading ModNetworkingPackets for moreores mod.
+[21:44:44] [main/INFO]: Loading ConsumableComponents for moreores mod.
+[21:44:44] [main/INFO]: Loading EnchantmentEffects for moreores mod.
+[21:44:44] [main/INFO]: it seems to react to redstone
+[21:44:45] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1c8f79e0]
+[21:44:45] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[21:44:45] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:44:46] [main/WARN]: Missing metadata in pack file/The Decimation of Mankind-2.zip
+[21:44:47] [main/ERROR]: Couldn't read tag list minecraft:in_enchanting_table from minecraft:tags/enchantment/in_enchanting_table.json in data pack mr_moreenchantments
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 19 column 2 path $.values[17]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:58) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:146) ~[gson-2.11.0.jar:?]
+	at knot/net.minecraft.class_11341.method_71359(class_11341.java:31) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3503.method_33174(class_3503.java:59) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3503.method_61308(class_3503.java:150) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_45122(class_7655.java:325) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655$class_9158.method_56520(class_7655.java:117) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_56514(class_7655.java:193) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_45120(class_7655.java:212) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at knot/net.minecraft.class_7655.method_45121(class_7655.java:212) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.mixinextras$bridge$method_45121$37(class_7655.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.wrapOperation$zjc000$fabric-registry-sync-v0$wrapIsServerCall(class_7655.java:1055) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_56515(class_7655.java:193) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237.method_42098(class_7237.java:41) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.method_43612(Main.java:187) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1098) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1092) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:185) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 19 column 2 path $.values[17]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:559) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.hasNext(JsonReader.java:498) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:875) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:820) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.11.0.jar:?]
+	... 23 more
+[21:44:48] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[21:44:48] [Worker-Main-2/ERROR]: Couldn't parse data file 'amyshield:amethyst_shield_alternitive' from 'amyshield:recipe/amethyst_shield_alternitive.json': DataResult.Error['Map entry 's' : Failed to parse either. First: Not a JSON object: "sculk-latch:sculk_latch"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "sculk-latch:sculk_latch"; Second: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: sculk-latch:sculk_latch']
+[21:44:49] [main/INFO]: Loaded 1632 recipes
+[21:44:49] [main/ERROR]: Failed to load function ancient_artifacts:utilities/get_tick_speed
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 11: ...eturn run <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at knot/net.minecraft.class_4014.method_67576(class_4014.java:52) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 11: ...eturn run <--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 7 more
+[21:44:49] [main/INFO]: Loaded 2164 advancements
+[21:44:49] [main/INFO]: Applied 1836 biome modifications to 54 of 65 new biomes in 26.08 ms
+[21:44:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:44:49] [Server thread/INFO]: Loading properties
+[21:44:49] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:49] [Server thread/INFO]: Generating keypair
+[21:44:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:44:50] [Server thread/INFO]: Using epoll channel type
+[21:44:50] [Server thread/INFO]: Preparing level "world"
+[21:44:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:44:53] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:44:53] [Server thread/INFO]: Time elapsed: 3140 ms
+[21:44:53] [Server thread/INFO]: Done (3.613s)! For help, type "help"
+[21:44:56] [Server thread/WARN]: UUID of added entity already exists: class_1531['Armor Stand'/29, l='ServerLevel[New World]', x=200600.50, y=3.00, z=200600.50]
+[21:44:56] [Server thread/WARN]: UUID of added entity already exists: class_6335['Marker'/30, l='ServerLevel[New World]', x=0.00, y=0.00, z=0.00]
+[21:45:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
